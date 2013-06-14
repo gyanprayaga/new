@@ -5,4 +5,4 @@ This is about the design of a new **brand identity** and **web presence** for LA
 
 ###Thanks for reading!###
 
-Learn more about [This is a link](http://jujubeweb.com). 
+Learn more about [Jujube](http://jujubeweb.com). 
